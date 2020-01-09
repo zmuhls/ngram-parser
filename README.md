@@ -1,6 +1,6 @@
 # mining-student-metadiscourse
 
-The following repository entails a portion of my final research project for Methods in Computational Linguistics, led by Kyle Gorman at the CUNY Graduate Center during Fall 2019.
+The following repository entails a portion of my final research project for Methods in Computational Linguistics, taught by Kyle Gorman at the CUNY Graduate Center in Fall 2019.
 </br>
 
 <strong>Files include</strong>:</br>
