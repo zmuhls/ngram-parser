@@ -47,9 +47,11 @@ def trigram_process(path:str):
 	for v, k in tmp[:115]:
 		print(k, v)
 
-print(len(preprocess('ywp-1.txt')))
-print(len(preprocess('ywp-2.txt')))
-bigram_process('ywp-1.txt')
-trigram_process('ywp-1.txt')
-bigram_process('ywp-2.txt')
-trigram_process('ywp-2.txt')
+print(len(preprocess('corpus1.txt')))
+print(len(preprocess('corpus2.txt')))
+
+bigram_process('corpus1.txt')
+trigram_process('corpus1.txt')
+
+bigram_process('corpus2.txt')
+trigram_process('corpus2.txt')
