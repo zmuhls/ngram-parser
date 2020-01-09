@@ -9,4 +9,4 @@ The following repository entails a portion of my final research project for Meth
 
 <strong>- One</strong> dataset documenting key and value results for the highest number of n-grams from two concetenated sets of student self-reflections,  submitted in response to the first assignment for SUNY Geneseo's first-year online writing course. Each corpus amounts to approximately 180k tokens over an aggregate total of 500 student responses.</br>
 
-<strong>- Two</strong> text files of concetenated self-reflections.
+<strong>- Two</strong> text files of concetenated self-reflections. <em>These have been removed from the repository for data privacy purposes.</em>
