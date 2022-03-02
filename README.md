@@ -1,12 +1,11 @@
-# mining-student-metadiscourse
+# 
 
 The following repository entails a portion of my final research project for Methods in Computational Linguistics, taught by Kyle Gorman at the CUNY Graduate Center in Fall 2019.
 </br>
 
 <strong>Files include</strong>:</br>
 
-<strong>- One</strong> Python program designed to extract the key and value for high-frequency n-grams in one or more corpora. Text files may pass through any relative instance of the program's two discrete functions for bigrams and trigrams.</br>
+<strong>- One</strong> Python programs designed to preprocess, sort, and ennumerate high-frequency word collocations within a considerably large text corpus.  Simply locate the file for the text corpus in the same folder as your script and pass through any relative instance of the program's two input fields to pull bigrams and trigrams.
 
-<strong>- One</strong> dataset documenting key and value results for the highest number of n-grams from two concetenated sets of student self-reflections,  submitted in response to the first assignment for SUNY Geneseo's first-year online writing course. Each corpus amounts to approximately 180k tokens over an aggregate total of 500 student responses.</br>
-
+<strong>- One</strong> dataset meant to document key and value results for higher-end frequencies of n-grams drawn from a text corpus of approximately 150-180K tokens. For instance, this program was originally used to process and analyze between writing samples at around 150-200 words a piece. Concetenated into two files, the DIY analytics pulled from these text corprora can help identify and account for the differentiated learning needs of students enrolled in the writing-intensive online writing courss.
 <strong>- Two</strong> text files of concetenated self-reflections. <em>These have been removed for data privacy purposes.</em>
