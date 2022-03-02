@@ -1,9 +1,14 @@
 # Summary:
 
-The following repository entails a portion of my final research project for Methods in Computational Linguistics, taught by Kyle Gorman at the CUNY Graduate Center in Fall 2019.
+Use case for this program involved the tokenization and analysis of approximately ~500 first-year student writing samples at around 150-200 words per submission. It can also be coupled with findings drawn from associated NLP methods geared toward sensemaking and pattern recognition among rhetorically contained linguistic datasets. 
 
-### Attendant files:
+Such was the case with the metadiscursive register of students who write about their writing in response to the pedagogical language of an assignment description: one whose parameters narrow the pool of lexical and phraseological expressions among online learners. The instructional design & rhetoric of these writing prompts thus underwent strong qualitative growth year-over-year due the patterned insights of these learner analytics.
 
-1. Python script designed to preprocess, sort, and ennumerate high-frequency word collocations** within considerably large text corpora. Remember to sitauted your file in the same text directory as where your program lives. Once that' set, kindly wrap quotations around the title of the file that signifies the concetenated text corpus, then pass it through the marked input field for the program to pull the frequency values for bigram and trigram tokens.
-3. Distribruted dataset meant to sort the key & value for high-frequency used to process and analyze between writing samples at around 150-200 words a piece. Concetenated into two files, the DIY analytics pulled from these text corprora can help identify and account for the differentiated learning needs of students enrolled in writing-intensive online writing courss.
-4. Plain or rich text file for each distributed dataset in need of concetanation.
+### Files:
+
+1. Python script designed to preprocess, sort, and ennumerate the frequency values for bigram and trigram tokens within considerably large text corpora. 
+2. A sizeable linguistic dataset drawn from a distributed set of text artificats
+3. Plain or rich text file for each linguistic dataset it to be concetenated, added as a commit, with its filename wrapped in quotes and added as input in script.
+- - -
+### Addendum:
+This repository comprises part of my final research project in fulfillment of Kyle Gorman's Fall 2019 section of Methods in Computational Linguistics at The Graduate Center, CUNY.
